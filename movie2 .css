@@ -1,0 +1,56 @@
+.row{
+    width: 80%;
+    height: 300px;
+    border: 5px solid black;
+    margin-left: 128px;
+    margin-top: -5px;
+    background-image: url(mediaa/primevideo-seo-logo.png );
+    background-size: cover;
+    
+    
+}
+body{
+    background-color: black;
+}
+.row2{width: 90%;
+    height: 300px;
+    border: 5px solid black;
+    margin-left: 70px;
+    position: relative;
+    left: -24px;
+    top: -27px;
+
+}
+.col{
+    width: 250px;
+    height: 300px;
+    border: 2px solid white;
+    position: absolute;
+left: 10px;
+    
+}
+
+.c1{
+    left: 0px;
+    background-image: url(mediaa/wednesday.jpeg);
+   
+    ;
+   
+}
+.c2{
+    left: 300px;
+    background-image: url(mediaa/witcher.jpeg);
+    
+
+    
+}
+.c3{
+    left: 600px;
+    background-image: url(mediaa/wednesday.jpeg);
+    background-image: url(mediaa/boyas.jpg)
+}
+.c4{
+    left: 900px;
+    background-image: url(mediaa/dark.jpeg);
+    background-size: cover;
+}
